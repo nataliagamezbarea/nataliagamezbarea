@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>He desarrollado una aplicación con Electron para el frontend y un backend completo utilizando Node.js, Express y MongoDB, implementando todas las operaciones CRUD para el manejo de datos de usuarios.</p>
+<p>He desarrollado una aplicación con Electron para el frontend y un backend completo utilizando Node.js, Express , implementando todas las operaciones CRUD para el manejo de datos de usuarios.</p>
 </div>
 </td>
 
