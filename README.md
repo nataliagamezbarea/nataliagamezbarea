@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy <a href="">Natalia Gámez Barea</a> 👋</h1>
 </div>
 
-![Natalia_gamez_barea](https://github.com/nataliagamezbarea/nataliagamezbarea/assets/144036430/44f4cf2e-006c-42da-a2ab-64b124aa064a)
+![Natalia_gamez_barea](https://github.com/nataliagamezbarea/nataliagamezbarea/assets/144036430/65646331-6888-457b-ba0f-894e12b42e53)
 
 ## Sobre mí
 
