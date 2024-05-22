@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>He utilizado Python Visual para crear una calculadora de amor, un divertido juego de dados, una interactiva aplicación web y una potente app empresarial, cada una con interfaces intuitivas y funcionalidades específicas.</p>
+<p>He utilizado Python Visual para crear una calculadora de amor, un divertido juego de dados, una interactiva aplicación web y una potente app empresarial, cada una con interfaces intuitivas y funcionalidades.</p>
 </div>
 </td>
 </tr>
