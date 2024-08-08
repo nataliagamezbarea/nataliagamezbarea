@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-<p>Hola, tengo 17 años y soy una apasionada de la programación y la tecnología. Desde muy pequeña, me he interesado por el mundo de la informática, lo que me ha llevado a aprender diversos lenguajes de programación y técnicas de desarrollo. Disfruto trabajando en proyectos que me permiten aplicar y expandir mis conocimientos.</p>
+<p> Tengo 18 años y soy una apasionada de la programación y la tecnología. Desde muy pequeña, me he interesado por el mundo de la informática, lo que me ha llevado a aprender diversos lenguajes de programación y técnicas de desarrollo. Disfruto trabajando en proyectos que me permiten aplicar y expandir mis conocimientos.</p>
 <p>Siempre busco mejorar mis habilidades y aprender nuevas tecnologías. Mi objetivo es seguir creciendo en este campo, contribuyendo al desarrollo de tecnologías innovadoras y útiles para la sociedad.</p>
 
 ## Proyectos
