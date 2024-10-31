@@ -32,12 +32,12 @@
 <td width="50%">
 <h3 align="center">Tarjeta de crédito con Sheets</h3>
 <div align="center">                                       
-<a href="https://nataliagamezbarea.com/proyectos/tarjeta-credito-sheets/1-login.html" target="_blank"><img src="https://i.imgur.com/736z7xm.png" style="width: 70vh; height: 40vh;" alt="preview-tarjeta-credito"></a>
+<a href="https://nataliagamezbarea.github.io/targeta-credito" target="_blank"><img src="https://i.imgur.com/736z7xm.png" style="width: 70vh; height: 40vh;" alt="preview-tarjeta-credito"></a>
 <p>
 <a href="https://github.com/nataliagamezbarea/FORMS-WITH-DATABASE-IN-GOOGLE-SHEETS" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://nataliagamezbarea.com/proyectos/tarjeta-credito-sheets/1-login.html" target="_blank">
+<a href="https://nataliagamezbarea.github.io/targeta-credito/" target="_blank">
 <img src="https://img.shields.io/badge/-Web funcional -green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
