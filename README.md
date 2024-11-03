@@ -67,11 +67,11 @@
     <td width="50%">
       <h3 align="center">Python Visual</h3>
       <div align="center">
-        <a href="https://github.com/nataliagamezbarea/APP-PYTHON-VISUAL" target="_blank">
+        <a href="https://github.com/nataliagamezbarea/APP-PYTHON-VISUAL." target="_blank">
           <img src="images/python-amor.png" style="width: 70vh; height: 44vh;" alt="Curso Python Visual">
         </a>
         <p>
-          <a href="https://github.com/nataliagamezbarea/APP-PYTHON-VISUAL" target="_blank">
+          <a href="https://github.com/nataliagamezbarea/APP-PYTHON-VISUAL." target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
