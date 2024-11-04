@@ -14,14 +14,14 @@
     <td width="50%">
       <h3 align="center">Utilización API de Wordpress</h3>
       <div align="center">
-        <a href="https://restaurante-tolos-api.vercel.app/Vilacuisines.html" target="_blank">
+        <a href="https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html" target="_blank">
           <img src="images/tolos.png" style="width: 70vh; height: 40vh;" alt="preview-api-restaurante-tolos">
         </a>
         <p>
           <a href="https://github.com/nataliagamezbarea/restaurante-tolos-api" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://restaurante-tolos-api.vercel.app/Vilacuisines.html" target="_blank">
+          <a href="https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html" target="_blank">
             <img src="https://img.shields.io/badge/-Web funcional -green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
