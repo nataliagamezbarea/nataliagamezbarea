@@ -21,9 +21,6 @@
           <a href="https://github.com/nataliagamezbarea/restaurante-tolos-api" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html" target="_blank">
-            <img src="https://img.shields.io/badge/-Web funcional -green?style=for-the-badge&color=fbfc40">
-          </a>
         </p>
         <p>He desarrollado una conexión entre JavaScript, HTML y WordPress mediante la API REST, utilizando IDs para identificar y sincronizar datos específicos. Permite que cualquier cambio en el contenido de WordPress se refleje automáticamente en la página HTML.</p>
       </div>
