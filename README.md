@@ -7,11 +7,10 @@
           <img src="images/feuso.png" style="width: 400px; height: 200px;" alt="preview-feuso">
         </a>
         <p>
-          <a href="https://github.com/nataliagamezbarea/fempo_uso" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-00aced?style=for-the-badge&logo=github&logoColor=white">
+           <a href="https://github.com/nataliagamezbarea/fempo_uso" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://nataliagamezbarea.github.io/fempo_uso" target="_blank">
-            <img src="https://img.shields.io/badge/-Web%20funcional-green?style=for-the-badge&color=28a745">
           </a>
         </p>
         <p>Desarrollamos entre cuatro personas una web sindical para profesionales de la educación en Baleares utilizando Wordpress, que ofrece noticias, formación, acceso al BOIB y recursos clave, todo de forma accesible y actualizada.</p>
