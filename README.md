@@ -13,7 +13,7 @@
     <td width="50%">
       <h3 align="center">Utilización API de Wordpress</h3>
       <div align="center">
-        <a href="https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html" target="_blank">
+        <a href="#" target="_blank">
           <img src="images/tolos.png" style="width: 70vh; height: 30vh;" alt="preview-api-restaurante-tolos">
         </a>
         <p>
