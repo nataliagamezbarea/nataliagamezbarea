@@ -2,7 +2,6 @@
   <h1>Hola, soy <a href="">Natalia Gámez Barea</a> 👋</h1>
 </div>
 
-<img src="images/nataliagamezbarea.jpg" alt="Natalia Gámez Barea" />
 
 <h2>Sobre mí</h2>
 <p>Tengo 18 años y soy una apasionada de la programación y la tecnología. Desde muy pequeña, me he interesado por el mundo de la informática, lo que me ha llevado a aprender diversos lenguajes de programación y técnicas de desarrollo. Disfruto trabajando en proyectos que me permiten aplicar y expandir mis conocimientos.</p>
