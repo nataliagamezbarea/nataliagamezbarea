@@ -19,12 +19,15 @@
     <td width="50%">
       <h3 align="center">Utilización API de Wordpress</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html" target="_blank">
           <img src="images/tolos.png" style="width: 400px; height: 200px;" alt="preview-api-restaurante-tolos">
         </a>
         <p>
           <a href="https://github.com/nataliagamezbarea/restaurante-tolos-api" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+           <a href="https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html" target="_blank">
+            <img src="https://img.shields.io/badge/-Web%20funcional-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
         <p>He desarrollado una conexión entre JavaScript, HTML y WordPress mediante la API REST, utilizando IDs para identificar y sincronizar datos específicos. Permite que cualquier cambio en el contenido de WordPress se refleje automáticamente en la página HTML.</p>
