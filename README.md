@@ -38,14 +38,14 @@
     <td width="50%">
       <h3 align="center">Tarjeta de crédito con Sheets</h3>
       <div align="center">
-        <a href="https://nataliagamezbarea.github.io/targeta-credito" target="_blank">
+        <a href="https://nataliagamezbarea.github.io/tarjeta-en-vivo/" target="_blank">
           <img src="images/targeta-credito.png" style="width: 400px; height: 200px;" alt="preview-tarjeta-credito">
         </a>
         <p>
-          <a href="https://github.com/nataliagamezbarea/FORMS-WITH-DATABASE-IN-GOOGLE-SHEETS" target="_blank">
+          <a href="https://github.com/nataliagamezbarea/tarjeta-en-vivo" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://nataliagamezbarea.github.io/targeta-credito/" target="_blank">
+          <a href="https://nataliagamezbarea.github.io/tarjeta-en-vivo/" target="_blank">
             <img src="https://img.shields.io/badge/-Web%20funcional-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
