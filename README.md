@@ -55,11 +55,11 @@
     <td width="50%">
       <h3 align="center">Gestión de Usuarios</h3>
       <div align="center">
-        <a href="https://github.com/nataliagamezbarea/CRUD-Produccion" target="_blank">
+        <a href="https://github.com/nataliagamezbarea/CRUD" target="_blank">
           <img src="images/crud.png" style="width: 400px; height: 200px;" alt="preview-crud">
         </a>
         <p>
-          <a href="https://github.com/nataliagamezbarea/CRUD-Produccion" target="_blank">
+          <a href="https://github.com/nataliagamezbarea/CRUD" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
